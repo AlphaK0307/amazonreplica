@@ -1,0 +1,58 @@
+body, html {
+    height: 100%;
+    margin: 0px;
+    background-color: white;
+}
+
+.text{
+    text-align: center;
+}
+.hero-text{
+    color: black;
+    text-align: center;
+}
+
+article{
+    border: 1px solid black;
+    width: 20%;
+    padding: 50px;
+    margin: auto;
+    padding-bottom: 100px;
+}
+
+footer{
+    display: inline;
+    margin: auto;
+    text-align: center;
+}
+
+#side{
+    background-color: #f3c758;
+    border: 1px solid black;
+    text-align: center;
+}
+
+#side li{
+    display: inline;
+}
+
+footer li{
+    display: inline;
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.side-center li{
+    margin: auto;
+    display: inline;
+    padding: 7%;
+}
+.email{
+    width: 100%;
+}
+.password{
+    width:100%;
+}
